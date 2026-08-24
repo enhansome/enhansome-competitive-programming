@@ -1,7 +1,367 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Consider beginning your competitive programming journey with these awesome courses!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "★☆☆",
+          "description": "Materials (English) from Arabic Competitive Programming YouTube Channel Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23489070,
+            "language": "C++",
+            "last_commit": "2023-09-05T01:09:54Z",
+            "owner": "mostafa-saad",
+            "repo": "ArabicCompetitiveProgramming",
+            "stars": 1675
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "★★★",
+              "description": "prakhar1989/awesome-courses#algorithms A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26689598,
+                "language": null,
+                "last_commit": "2023-05-04T12:49:34Z",
+                "owner": "prakhar1989",
+                "repo": "awesome-courses",
+                "stars": 70632
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Courses for Algorithms and Data Structures"
+        }
+      ],
+      "title": "Open Courses"
+    },
+    {
+      "description": "Algorithm & Data structure implementations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "★★★",
+          "description": "CodeLibrary, by Andrey Naumenko (indy256) CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his GitHub Repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1493359,
+            "language": "Java",
+            "last_commit": "2026-07-05T05:58:05Z",
+            "owner": "indy256",
+            "repo": "codelibrary",
+            "stars": 2027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "★★★",
+          "description": "spaghetti-source/algorithm, by Takanori MAEHARA (@tmaehara) High-quality implementations of many hard algorithms and data structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7621147,
+            "language": "C++",
+            "last_commit": "2021-11-08T18:52:54Z",
+            "owner": "spaghetti-source",
+            "repo": "algorithm",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "★★★",
+          "description": "kth-competitive-programming/kactl, by Simon Lindholm (simonlindholm) et al. A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92687870,
+            "language": "C++",
+            "last_commit": "2026-08-05T17:14:53Z",
+            "owner": "kth-competitive-programming",
+            "repo": "kactl",
+            "stars": 3467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "★★☆",
+          "description": "jaehyunp/stanfordacm Stanford's team notebook is well maintained and the codes within are of high-quality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21017766,
+            "language": "HTML",
+            "last_commit": "2020-12-24T01:43:34Z",
+            "owner": "jaehyunp",
+            "repo": "stanfordacm",
+            "stars": 1664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "★★☆",
+          "description": "ngthanhtrung23/ACM_Notebook_new, by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29093099,
+            "language": "C++",
+            "last_commit": "2026-06-13T13:55:57Z",
+            "owner": "ngthanhtrung23",
+            "repo": "ACM_Notebook_new",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "★★☆",
+          "description": "bobogei81123/bcw_codebook, by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20440425,
+            "language": "C++",
+            "last_commit": "2021-04-19T09:21:50Z",
+            "owner": "chmnchiang",
+            "repo": "bcw_codebook",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "★☆☆",
+          "description": "foreverbell/acm-icpc-cheat-sheet, by foreverbell (foreverbell) A notebook with some advanced data structures and algorithms including some from the China informatics scene.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19332339,
+            "language": "C++",
+            "last_commit": "2018-04-07T04:50:26Z",
+            "owner": "foreverbell",
+            "repo": "acm-icpc-cheat-sheet",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Implementations"
+    },
+    {
+      "description": "Awesome tools that will make your life easier.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "★★★",
+              "description": "General Practice Helpers: ... CHelper (IntelliJ IDEA) (manual) ... caide (Visual Studio, CodeLite, standalone command line app) ... JHelper (AppCode, CLion) online-judge-tools (Stand alone CLI tool, It is actively maintained.) Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28912382,
+                "language": "Haskell",
+                "last_commit": "2025-11-02T00:40:50Z",
+                "owner": "slycelote",
+                "repo": "caide",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "★★☆",
+              "description": "Codeforces Parsers: ... Codeforces Parser ... GoCF ... cfparser (emacs) cfparser (cli) These tools parse Codeforces contest problems and help run sample tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15927026,
+                "language": "Python",
+                "last_commit": "2025-07-14T09:49:32Z",
+                "owner": "johnathan79717",
+                "repo": "codeforces-parser",
+                "stars": 140
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Personal use"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "★★☆",
+              "description": "tcframe A C++ framework for generating test cases of competitive programming problems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30101491,
+                "language": "C++",
+                "last_commit": "2026-08-08T00:56:03Z",
+                "owner": "ia-toki",
+                "repo": "tcframe",
+                "stars": 162
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Contest Preparation"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Algorithms",
+              "description": "tayllan/awesome-algorithms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21911597,
+                "language": null,
+                "last_commit": "2026-04-18T15:06:58Z",
+                "owner": "tayllan",
+                "repo": "awesome-algorithms",
+                "stars": 25477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Algorithm Visualization",
+              "description": "enjalot/algovis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23984871,
+                "language": null,
+                "last_commit": "2022-12-05T14:04:34Z",
+                "owner": "enjalot",
+                "repo": "algovis",
+                "stars": 1764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Math",
+              "description": "rossant/awesome-math",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41793121,
+                "language": "Python",
+                "last_commit": "2026-08-14T08:36:36Z",
+                "owner": "rossant",
+                "repo": "awesome-math",
+                "stars": 16161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C++",
+              "description": "fffaraz/awesome-cpp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21935031,
+                "language": null,
+                "last_commit": "2026-08-22T08:36:07Z",
+                "owner": "fffaraz",
+                "repo": "awesome-cpp",
+                "stars": 72908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": "akullpp/awesome-java",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21648001,
+                "language": null,
+                "last_commit": "2026-08-24T00:59:50Z",
+                "owner": "akullpp",
+                "repo": "awesome-java",
+                "stars": 48835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Courses",
+              "description": "prakhar1989/awesome-courses",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26689598,
+                "language": null,
+                "last_commit": "2023-05-04T12:49:34Z",
+                "owner": "prakhar1989",
+                "repo": "awesome-courses",
+                "stars": 70632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Free Programming Books",
+              "description": "vhf/free-programming-books",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13491895,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:16:15Z",
+                "owner": "EbookFoundation",
+                "repo": "free-programming-books",
+                "stars": 395132
+              }
+            }
+          ],
+          "description": "Relevant awesome lists",
+          "node_type": "group",
+          "title": "Awesome Lists"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Interviews",
+              "description": "A curated list of awesome interview questions",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47018239,
+                "language": null,
+                "last_commit": "2024-07-29T14:21:23Z",
+                "owner": "DopplerHQ",
+                "repo": "awesome-interview-questions",
+                "stars": 84187
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interview Questions"
+        }
+      ],
+      "title": "Other Awesome Resources"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T18:48:06.112Z",
+    "last_updated": "2026-08-24T13:54:21.079Z",
     "original_repository": "lnishan/awesome-competitive-programming",
     "original_repository_id": 46572574,
     "original_repository_sha": "2026f375a1136d70199361f047ed81f28bc0373f",
