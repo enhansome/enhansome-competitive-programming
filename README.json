@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "★☆☆",
-          "description": "Materials (English) from Arabic Competitive Programming YouTube Channel Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim.",
+          "title": "Materials (English)",
+          "description": "from Arabic Competitive Programming YouTube Channel Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -22,8 +22,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "★★★",
-              "description": "prakhar1989/awesome-courses#algorithms A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).",
+              "title": "prakhar1989/awesome-courses#algorithms",
+              "description": "A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -32,7 +32,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70637
+                "stars": 70651
               }
             }
           ],
@@ -48,8 +48,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "★★★",
-          "description": "CodeLibrary, by Andrey Naumenko (indy256) CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his GitHub Repository.",
+          "title": "CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his GitHub Repository",
+          "description": ". CodeLibrary, by Andrey Naumenko (indy256)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -63,8 +63,8 @@
         },
         {
           "node_type": "item",
-          "title": "★★★",
-          "description": "spaghetti-source/algorithm, by Takanori MAEHARA (@tmaehara) High-quality implementations of many hard algorithms and data structures.",
+          "title": "spaghetti-source/algorithm",
+          "description": ", by Takanori MAEHARA (@tmaehara) High-quality implementations of many hard algorithms and data structures.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,8 +78,8 @@
         },
         {
           "node_type": "item",
-          "title": "★★★",
-          "description": "kth-competitive-programming/kactl, by Simon Lindholm (simonlindholm) et al. A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen.",
+          "title": "kth-competitive-programming/kactl",
+          "description": ", by Simon Lindholm (simonlindholm) et al. A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,8 +93,8 @@
         },
         {
           "node_type": "item",
-          "title": "★★☆",
-          "description": "jaehyunp/stanfordacm Stanford's team notebook is well maintained and the codes within are of high-quality.",
+          "title": "jaehyunp/stanfordacm",
+          "description": "Stanford's team notebook is well maintained and the codes within are of high-quality.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -108,8 +108,8 @@
         },
         {
           "node_type": "item",
-          "title": "★★☆",
-          "description": "ngthanhtrung23/ACM_Notebook_new, by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized.",
+          "title": "ngthanhtrung23/ACM_Notebook_new",
+          "description": ", by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -123,8 +123,8 @@
         },
         {
           "node_type": "item",
-          "title": "★★☆",
-          "description": "bobogei81123/bcw_codebook, by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.",
+          "title": "bobogei81123/bcw_codebook",
+          "description": ", by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -138,8 +138,8 @@
         },
         {
           "node_type": "item",
-          "title": "★☆☆",
-          "description": "foreverbell/acm-icpc-cheat-sheet, by foreverbell (foreverbell) A notebook with some advanced data structures and algorithms including some from the China informatics scene.",
+          "title": "foreverbell/acm-icpc-cheat-sheet",
+          "description": ", by foreverbell (foreverbell) A notebook with some advanced data structures and algorithms including some from the China informatics scene.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,8 +161,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "★★★",
-              "description": "General Practice Helpers: ... CHelper (IntelliJ IDEA) (manual) ... caide (Visual Studio, CodeLite, standalone command line app) ... JHelper (AppCode, CLion) online-judge-tools (Stand alone CLI tool, It is actively maintained.) Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth.",
+              "title": "General Practice Helpers: ... CHelper",
+              "description": "(IntelliJ IDEA) (manual) ... caide (Visual Studio, CodeLite, standalone command line app) ... JHelper (AppCode, CLion) online-judge-tools (Stand alone CLI tool, It is actively maintained.) Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -176,8 +176,8 @@
             },
             {
               "node_type": "item",
-              "title": "★★☆",
-              "description": "Codeforces Parsers: ... Codeforces Parser ... GoCF ... cfparser (emacs) cfparser (cli) These tools parse Codeforces contest problems and help run sample tests.",
+              "title": "Codeforces Parsers: ... Codeforces Parser",
+              "description": "... GoCF ... cfparser (emacs) cfparser (cli) These tools parse Codeforces contest problems and help run sample tests.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -198,8 +198,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "★★☆",
-              "description": "tcframe A C++ framework for generating test cases of competitive programming problems.",
+              "title": "tcframe",
+              "description": "A C++ framework for generating test cases of competitive programming problems.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -236,7 +236,7 @@
                 "last_commit": "2026-04-18T15:06:58Z",
                 "owner": "tayllan",
                 "repo": "awesome-algorithms",
-                "stars": 25477
+                "stars": 25476
               }
             },
             {
@@ -266,7 +266,7 @@
                 "last_commit": "2026-08-14T08:36:36Z",
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16164
+                "stars": 16165
               }
             },
             {
@@ -281,7 +281,7 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72914
+                "stars": 72921
               }
             },
             {
@@ -296,7 +296,7 @@
                 "last_commit": "2026-08-24T00:59:50Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48838
+                "stars": 48840
               }
             },
             {
@@ -311,7 +311,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70637
+                "stars": 70651
               }
             },
             {
@@ -326,7 +326,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395146
+                "stars": 395170
               }
             }
           ],
@@ -348,7 +348,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84185
+                "stars": 84198
               }
             }
           ],
@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:58:52.818Z",
+    "last_updated": "2026-08-25T05:44:55.937Z",
     "original_repository": "lnishan/awesome-competitive-programming",
     "original_repository_id": 46572574,
     "original_repository_sha": "2026f375a1136d70199361f047ed81f28bc0373f",
