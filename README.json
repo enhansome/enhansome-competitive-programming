@@ -32,7 +32,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70691
+                "stars": 70703
               }
             }
           ],
@@ -88,7 +88,7 @@
             "last_commit": "2026-08-05T17:14:53Z",
             "owner": "kth-competitive-programming",
             "repo": "kactl",
-            "stars": 3467
+            "stars": 3470
           }
         },
         {
@@ -236,7 +236,7 @@
                 "last_commit": "2026-04-18T15:06:58Z",
                 "owner": "tayllan",
                 "repo": "awesome-algorithms",
-                "stars": 25477
+                "stars": 25478
               }
             },
             {
@@ -251,7 +251,7 @@
                 "last_commit": "2022-12-05T14:04:34Z",
                 "owner": "enjalot",
                 "repo": "algovis",
-                "stars": 1764
+                "stars": 1765
               }
             },
             {
@@ -266,7 +266,7 @@
                 "last_commit": "2026-08-14T08:36:36Z",
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16185
+                "stars": 16189
               }
             },
             {
@@ -281,7 +281,7 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72960
+                "stars": 72969
               }
             },
             {
@@ -296,7 +296,7 @@
                 "last_commit": "2026-08-24T00:59:50Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48857
+                "stars": 48870
               }
             },
             {
@@ -311,7 +311,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70691
+                "stars": 70703
               }
             },
             {
@@ -326,7 +326,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395313
+                "stars": 395366
               }
             }
           ],
@@ -348,7 +348,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84222
+                "stars": 84231
               }
             }
           ],
@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:04.046Z",
+    "last_updated": "2026-08-28T02:10:52.362Z",
     "original_repository_info": {
       "archived": false,
       "id": 46572574,
@@ -369,7 +369,7 @@
       "last_commit": "2024-12-08T09:40:58Z",
       "owner": "lnishan",
       "repo": "awesome-competitive-programming",
-      "stars": 14140
+      "stars": 14142
     },
     "original_repository_sha": "2026f375a1136d70199361f047ed81f28bc0373f",
     "enhanced_repository": "enhansome/enhansome-competitive-programming",
