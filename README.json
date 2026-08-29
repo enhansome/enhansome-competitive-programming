@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repository contains the ENGLISH description files attached to the video series in my ARABIC algorithms channel.",
+            "homepage": "https://www.youtube.com/user/nobody123497",
             "id": 23489070,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-09-05T01:09:54Z",
+            "open_issues": 11,
             "owner": "mostafa-saad",
             "repo": "ArabicCompetitiveProgramming",
-            "stars": 1677
+            "stars": 1677,
+            "topics": [
+              "acm-icpc",
+              "algorithm",
+              "arabic",
+              "competitive-programming",
+              "data-structures",
+              "library",
+              "training-materials",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
         },
@@ -28,12 +42,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: List of awesome university courses for learning Computer Science!",
+                "homepage": null,
                 "id": 26689598,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
+                "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70725
+                "stars": 70729,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-science",
+                  "courses"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             }
@@ -55,12 +79,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":gem:Collection of algorithms and data structures",
+            "homepage": null,
             "id": 1493359,
             "language": "Java",
+            "license": "Unlicense",
             "last_commit": "2026-07-05T05:58:05Z",
+            "open_issues": 100,
             "owner": "indy256",
             "repo": "codelibrary",
-            "stars": 2028
+            "stars": 2028,
+            "topics": [
+              "algorithm",
+              "cpp",
+              "data-structures",
+              "java",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
         },
@@ -71,12 +106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Implementation of Algorithms (aka. Spaghetti Source)",
+            "homepage": null,
             "id": 7621147,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-11-08T18:52:54Z",
+            "open_issues": 18,
             "owner": "spaghetti-source",
             "repo": "algorithm",
-            "stars": 794
+            "stars": 794,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
         },
@@ -87,12 +127,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)",
+            "homepage": null,
             "id": 92687870,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-05T17:14:53Z",
+            "open_issues": 71,
             "owner": "kth-competitive-programming",
             "repo": "kactl",
-            "stars": 3473
+            "stars": 3473,
+            "topics": [
+              "algorithm",
+              "cc0",
+              "competitive-programming",
+              "contest",
+              "cpp",
+              "data-structures",
+              "notebook"
+            ]
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
         },
@@ -103,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stanford ACM-ICPC related materials",
+            "homepage": null,
             "id": 21017766,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-12-24T01:43:34Z",
+            "open_issues": 0,
             "owner": "jaehyunp",
             "repo": "stanfordacm",
-            "stars": 1665
+            "stars": 1665,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
         },
@@ -119,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NUS ICPC Team's Notebook for ACM ICPC World final 2016",
+            "homepage": "https://ngthanhtrung23.github.io/ACM_Notebook_new/",
             "id": 29093099,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-06-13T13:55:57Z",
+            "open_issues": 0,
             "owner": "ngthanhtrung23",
             "repo": "ACM_Notebook_new",
-            "stars": 469
+            "stars": 469,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
         },
@@ -135,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeBook for Team BCW",
+            "homepage": null,
             "id": 20440425,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-04-19T09:21:50Z",
+            "open_issues": 0,
             "owner": "chmnchiang",
             "repo": "bcw_codebook",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
         },
@@ -151,12 +219,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheat sheet for ACM-ICPC. In memory of those good old days.",
+            "homepage": null,
             "id": 19332339,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-04-07T04:50:26Z",
+            "open_issues": 0,
             "owner": "foreverbell",
             "repo": "acm-icpc-cheat-sheet",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "acm-icpc",
+              "acm-icpc-handbook",
+              "algorithms"
+            ]
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
         }
@@ -175,12 +252,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automates certain common tasks that you do during programming competitions",
+                "homepage": null,
                 "id": 28912382,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2025-11-02T00:40:50Z",
+                "open_issues": 9,
                 "owner": "slycelote",
                 "repo": "caide",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "codechef",
+                  "codeforces",
+                  "command-line-tool",
+                  "leetcode",
+                  "programming-competitions",
+                  "topcoder",
+                  "topcoder-arena",
+                  "visual-studio-extension"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             },
@@ -191,12 +282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse sample tests of Codeforces competitions, and generate tests automatically.",
+                "homepage": null,
                 "id": 15927026,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-14T09:49:32Z",
+                "open_issues": 2,
                 "owner": "johnathan79717",
                 "repo": "codeforces-parser",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             }
@@ -214,12 +310,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test case generation framework for competitive programming problems",
+                "homepage": "https://tcframe.toki.id",
                 "id": 30101491,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-08T00:56:03Z",
+                "open_issues": 38,
                 "owner": "ia-toki",
                 "repo": "tcframe",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "competitive-programming",
+                  "test-framework"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             }
@@ -243,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome places to learn and/or practice algorithms.",
+                "homepage": null,
                 "id": 21911597,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-18T15:06:58Z",
+                "open_issues": 1,
                 "owner": "tayllan",
                 "repo": "awesome-algorithms",
-                "stars": 25477
+                "stars": 25477,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             },
@@ -259,12 +368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "collection of projects and links about algorithm visualization",
+                "homepage": null,
                 "id": 23984871,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-05T14:04:34Z",
+                "open_issues": 8,
                 "owner": "enjalot",
                 "repo": "algovis",
-                "stars": 1765
+                "stars": 1765,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             },
@@ -275,12 +389,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome mathematics resources",
+                "homepage": null,
                 "id": 41793121,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-14T08:36:36Z",
+                "open_issues": 0,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16193
+                "stars": 16194,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lecture-notes",
+                  "list",
+                  "mathematics"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             },
@@ -291,12 +416,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+                "homepage": "http://fffaraz.github.io/awesome-cpp/",
                 "id": 21935031,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-22T08:36:07Z",
+                "open_issues": 312,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72981
+                "stars": 72983,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "c",
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp-library",
+                  "cppcon",
+                  "libraries",
+                  "list",
+                  "lists",
+                  "programming-tutorial",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             },
@@ -307,12 +450,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+                "homepage": null,
                 "id": 21648001,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-24T00:59:50Z",
+                "open_issues": 3,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48878
+                "stars": 48878,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             },
@@ -323,12 +474,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: List of awesome university courses for learning Computer Science!",
+                "homepage": null,
                 "id": 26689598,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
+                "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70725
+                "stars": 70729,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-science",
+                  "courses"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             },
@@ -339,12 +500,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Freely available programming books",
+                "homepage": "https://ebookfoundation.github.io/free-programming-books/",
                 "id": 13491895,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-18T14:16:15Z",
+                "open_issues": 92,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395473
+                "stars": 395482,
+                "topics": [
+                  "books",
+                  "education",
+                  "hacktoberfest",
+                  "list",
+                  "resource"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             }
@@ -362,12 +534,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+                "homepage": "https://doppler.com",
                 "id": 47018239,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-29T14:21:23Z",
+                "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84239
+                "stars": 84242,
+                "topics": [
+                  "android-interview-questions",
+                  "angularjs-interview-questions",
+                  "awesome",
+                  "awesome-list",
+                  "awesomeness",
+                  "interview-practice",
+                  "interview-questions",
+                  "interviewing",
+                  "javascript",
+                  "javascript-interview-questions",
+                  "list",
+                  "python-interview-questions",
+                  "rails-interview",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
             }
@@ -381,15 +573,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:44:56.657Z",
+    "last_updated": "2026-08-29T04:12:46.749Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
+      "homepage": "http://codeforces.com/blog/entry/23054",
       "id": 46572574,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2024-12-08T09:40:58Z",
+      "open_issues": 28,
       "owner": "lnishan",
       "repo": "awesome-competitive-programming",
-      "stars": 14146
+      "stars": 14146,
+      "topics": [
+        "algorithm",
+        "awesome",
+        "awesome-list",
+        "competitive-programming",
+        "contest",
+        "data-structure",
+        "learning-materials",
+        "list",
+        "practice",
+        "programming-contests",
+        "quora",
+        "reference-materials"
+      ]
     },
     "original_repository_sha": "2026f375a1136d70199361f047ed81f28bc0373f",
     "enhanced_repository": "enhansome/enhansome-competitive-programming",
