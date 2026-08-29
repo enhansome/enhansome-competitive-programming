@@ -15,8 +15,9 @@
             "last_commit": "2023-09-05T01:09:54Z",
             "owner": "mostafa-saad",
             "repo": "ArabicCompetitiveProgramming",
-            "stars": 1678
-          }
+            "stars": 1677
+          },
+          "first_seen": "2026-08-29T01:44:56.657Z"
         },
         {
           "children": [
@@ -32,8 +33,9 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70703
-              }
+                "stars": 70725
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             }
           ],
           "description": null,
@@ -59,7 +61,8 @@
             "owner": "indy256",
             "repo": "codelibrary",
             "stars": 2028
-          }
+          },
+          "first_seen": "2026-08-29T01:44:56.657Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "spaghetti-source",
             "repo": "algorithm",
             "stars": 794
-          }
+          },
+          "first_seen": "2026-08-29T01:44:56.657Z"
         },
         {
           "node_type": "item",
@@ -88,8 +92,9 @@
             "last_commit": "2026-08-05T17:14:53Z",
             "owner": "kth-competitive-programming",
             "repo": "kactl",
-            "stars": 3470
-          }
+            "stars": 3473
+          },
+          "first_seen": "2026-08-29T01:44:56.657Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "jaehyunp",
             "repo": "stanfordacm",
             "stars": 1665
-          }
+          },
+          "first_seen": "2026-08-29T01:44:56.657Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "ngthanhtrung23",
             "repo": "ACM_Notebook_new",
             "stars": 469
-          }
+          },
+          "first_seen": "2026-08-29T01:44:56.657Z"
         },
         {
           "node_type": "item",
@@ -134,7 +141,8 @@
             "owner": "chmnchiang",
             "repo": "bcw_codebook",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-29T01:44:56.657Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "foreverbell",
             "repo": "acm-icpc-cheat-sheet",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-29T01:44:56.657Z"
         }
       ],
       "title": "Implementations"
@@ -172,7 +181,8 @@
                 "owner": "slycelote",
                 "repo": "caide",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             },
             {
               "node_type": "item",
@@ -187,7 +197,8 @@
                 "owner": "johnathan79717",
                 "repo": "codeforces-parser",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             }
           ],
           "description": null,
@@ -209,7 +220,8 @@
                 "owner": "ia-toki",
                 "repo": "tcframe",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             }
           ],
           "description": null,
@@ -236,8 +248,9 @@
                 "last_commit": "2026-04-18T15:06:58Z",
                 "owner": "tayllan",
                 "repo": "awesome-algorithms",
-                "stars": 25478
-              }
+                "stars": 25477
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             },
             {
               "node_type": "item",
@@ -252,7 +265,8 @@
                 "owner": "enjalot",
                 "repo": "algovis",
                 "stars": 1765
-              }
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             },
             {
               "node_type": "item",
@@ -266,8 +280,9 @@
                 "last_commit": "2026-08-14T08:36:36Z",
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16189
-              }
+                "stars": 16193
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             },
             {
               "node_type": "item",
@@ -281,8 +296,9 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72969
-              }
+                "stars": 72981
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             },
             {
               "node_type": "item",
@@ -296,8 +312,9 @@
                 "last_commit": "2026-08-24T00:59:50Z",
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48870
-              }
+                "stars": 48878
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             },
             {
               "node_type": "item",
@@ -311,8 +328,9 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70703
-              }
+                "stars": 70725
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             },
             {
               "node_type": "item",
@@ -326,8 +344,9 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395366
-              }
+                "stars": 395473
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             }
           ],
           "description": "Relevant awesome lists",
@@ -348,8 +367,9 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84231
-              }
+                "stars": 84239
+              },
+              "first_seen": "2026-08-29T01:44:56.657Z"
             }
           ],
           "description": null,
@@ -361,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:10:52.362Z",
+    "last_updated": "2026-08-29T01:44:56.657Z",
     "original_repository_info": {
       "archived": false,
       "id": 46572574,
@@ -369,7 +389,7 @@
       "last_commit": "2024-12-08T09:40:58Z",
       "owner": "lnishan",
       "repo": "awesome-competitive-programming",
-      "stars": 14142
+      "stars": 14146
     },
     "original_repository_sha": "2026f375a1136d70199361f047ed81f28bc0373f",
     "enhanced_repository": "enhansome/enhansome-competitive-programming",
