@@ -48,10 +48,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
-                "open_issues": 65,
+                "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70925,
+                "stars": 70955,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -115,7 +115,7 @@
             "open_issues": 18,
             "owner": "spaghetti-source",
             "repo": "algorithm",
-            "stars": 793,
+            "stars": 794,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
@@ -136,7 +136,7 @@
             "open_issues": 71,
             "owner": "kth-competitive-programming",
             "repo": "kactl",
-            "stars": 3489,
+            "stars": 3492,
             "topics": [
               "algorithm",
               "cc0",
@@ -356,7 +356,7 @@
                 "open_issues": 1,
                 "owner": "tayllan",
                 "repo": "awesome-algorithms",
-                "stars": 25506,
+                "stars": 25511,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
@@ -398,7 +398,7 @@
                 "open_issues": 0,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16358,
+                "stars": 16365,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -425,7 +425,7 @@
                 "open_issues": 310,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73155,
+                "stars": 73173,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -459,7 +459,7 @@
                 "open_issues": 8,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48943,
+                "stars": 48951,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -480,10 +480,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
-                "open_issues": 65,
+                "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70925,
+                "stars": 70955,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -505,11 +505,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-01T09:12:19Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-06T22:01:27Z",
+                "open_issues": 78,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 396109,
+                "stars": 396209,
                 "topics": [
                   "books",
                   "education",
@@ -543,7 +543,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84385,
+                "stars": 84405,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -573,7 +573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:23:38.038Z",
+    "last_updated": "2026-09-07T21:30:22.771Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
@@ -585,7 +585,7 @@
       "open_issues": 28,
       "owner": "lnishan",
       "repo": "awesome-competitive-programming",
-      "stars": 14163,
+      "stars": 14166,
       "topics": [
         "algorithm",
         "awesome",
