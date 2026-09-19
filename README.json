@@ -51,7 +51,7 @@
                 "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71240,
+                "stars": 71259,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -136,7 +136,7 @@
             "open_issues": 71,
             "owner": "kth-competitive-programming",
             "repo": "kactl",
-            "stars": 3502,
+            "stars": 3503,
             "topics": [
               "algorithm",
               "cc0",
@@ -398,7 +398,7 @@
                 "open_issues": 0,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16447,
+                "stars": 16456,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -421,11 +421,11 @@
                 "id": 21935031,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-05T20:26:41Z",
-                "open_issues": 312,
+                "last_commit": "2026-09-19T02:12:42Z",
+                "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73342,
+                "stars": 73359,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -455,11 +455,11 @@
                 "id": 21648001,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-08-24T00:59:50Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-19T07:52:41Z",
+                "open_issues": 2,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 49041,
+                "stars": 49054,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -483,7 +483,7 @@
                 "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71240,
+                "stars": 71259,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -509,7 +509,7 @@
                 "open_issues": 80,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 397132,
+                "stars": 397236,
                 "topics": [
                   "books",
                   "education",
@@ -543,7 +543,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84571,
+                "stars": 84583,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -573,7 +573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:54:07.476Z",
+    "last_updated": "2026-09-19T20:39:27.401Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
@@ -585,7 +585,7 @@
       "open_issues": 28,
       "owner": "lnishan",
       "repo": "awesome-competitive-programming",
-      "stars": 14183,
+      "stars": 14185,
       "topics": [
         "algorithm",
         "awesome",
