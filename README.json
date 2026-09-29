@@ -51,7 +51,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71465,
+                "stars": 71480,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -136,7 +136,7 @@
             "open_issues": 71,
             "owner": "kth-competitive-programming",
             "repo": "kactl",
-            "stars": 3524,
+            "stars": 3532,
             "topics": [
               "algorithm",
               "cc0",
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "jaehyunp",
             "repo": "stanfordacm",
-            "stars": 1665,
+            "stars": 1664,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:56.657Z"
@@ -228,7 +228,7 @@
             "open_issues": 0,
             "owner": "foreverbell",
             "repo": "acm-icpc-cheat-sheet",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "acm-icpc",
               "acm-icpc-handbook",
@@ -356,7 +356,7 @@
                 "open_issues": 0,
                 "owner": "tayllan",
                 "repo": "awesome-algorithms",
-                "stars": 25596,
+                "stars": 25599,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:56.657Z"
@@ -398,7 +398,7 @@
                 "open_issues": 0,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16499,
+                "stars": 16505,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -421,11 +421,11 @@
                 "id": 21935031,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-27T01:13:43Z",
-                "open_issues": 311,
+                "last_commit": "2026-09-29T02:18:38Z",
+                "open_issues": 310,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73518,
+                "stars": 73533,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -456,10 +456,10 @@
                 "language": null,
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-09-23T10:50:49Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 49114,
+                "stars": 49122,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -483,7 +483,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71465,
+                "stars": 71480,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -506,10 +506,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-24T12:26:41Z",
-                "open_issues": 91,
+                "open_issues": 94,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398080,
+                "stars": 398159,
                 "topics": [
                   "books",
                   "education",
@@ -543,7 +543,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84718,
+                "stars": 84724,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -573,7 +573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:15:41.278Z",
+    "last_updated": "2026-09-29T22:14:34.811Z",
     "original_repository_info": {
       "archived": false,
       "description": ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
@@ -585,7 +585,7 @@
       "open_issues": 28,
       "owner": "lnishan",
       "repo": "awesome-competitive-programming",
-      "stars": 14198,
+      "stars": 14200,
       "topics": [
         "algorithm",
         "awesome",
