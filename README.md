@@ -103,7 +103,7 @@ Share the list with your classmates, your friends and everyone :)
 
 | ☆   | Name                                                                                                                                                                      | Description                                                                                                                                                                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) ⭐ 72,964 \| 🐛 67 \| 📅 2023-05-04                                    | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).                                                                                                                                                                                |
+| ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) ⭐ 72,995 \| 🐛 67 \| 📅 2023-05-04                                    | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).                                                                                                                                                                                |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 | ★★☆ | [UIUC Algorithm Course](http://jeffe.cs.illinois.edu/teaching/algorithms/)                                                                                                | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics                                                                                                                                                                                  |
 
@@ -415,13 +415,13 @@ Share the list with your classmates, your friends and everyone :)
 | C++ Books                       | [The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) |
 | Java Books                      | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java)                              |
 | Advanced Java Books             | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming)  |
-| Algorithms                      | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,669 \| 🐛 1 \| 📅 2026-11-16                              |
+| Algorithms                      | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,670 \| 🐛 1 \| 📅 2026-11-16                              |
 | Algorithm Visualization         | [enjalot/algovis](https://github.com/enjalot/algovis) ⭐ 1,769 \| 🐛 8 \| 📅 2022-12-05                                                     |
-| Math                            | [rossant/awesome-math](https://github.com/rossant/awesome-math) ⭐ 16,971 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-31                             |
-| C++                             | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,478 \| 🐛 289 \| 📅 2026-11-11                                          |
-| Java                            | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,564 \| 🐛 50 \| 📅 2026-09-23                                         |
-| Courses                         | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 72,964 \| 🐛 67 \| 📅 2023-05-04                           |
-| Free Programming Books          | [vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,774 \| 🐛 121 \| 🌐 Python \| 📅 2026-11-12  |
+| Math                            | [rossant/awesome-math](https://github.com/rossant/awesome-math) ⭐ 16,976 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-31                             |
+| C++                             | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,496 \| 🐛 289 \| 📅 2026-11-11                                          |
+| Java                            | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,570 \| 🐛 51 \| 📅 2026-09-23                                         |
+| Courses                         | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 72,995 \| 🐛 67 \| 📅 2023-05-04                           |
+| Free Programming Books          | [vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,845 \| 🐛 124 \| 🌐 Python \| 📅 2026-11-12  |
 | Community-curated C++ Resources | [Hackr.io](https://hackr.io/tutorials/learn-c-plus-plus)                                                                                   |
 
 ### Interview Questions
@@ -441,4 +441,4 @@ Awesome Competitive Programming is licensed under a [Creative Commons Attributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
